@@ -1,0 +1,7 @@
+/* Center the board container */
+body {
+  width: 100%;
+  height: 100%;
+  font-family: Arial, sans-serif;
+  color: #333;
+}
